@@ -12,5 +12,5 @@ Especialista em servidores Linux, segurança da informação, email marketing t�
 
 ## Site
 
-Versão visual do portfólio em `index.html` (HTML, CSS e JS puros, sem build). Para publicar: Settings > Pages > Deploy from a branch > `main` / root.
+Versão visual do portfólio em `index.html` (HTML, CSS e JS puros, sem build). A publicação é automática por GitHub Actions (`.github/workflows/pages.yml`). Em Settings > Pages, escolha Source: GitHub Actions.
 Os dados dos projetos ficam em `assets/projects.js`.
