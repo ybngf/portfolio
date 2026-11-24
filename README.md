@@ -9,3 +9,8 @@ Especialista em servidores Linux, segurança da informação, email marketing t�
 - [Automação de Atendimento com IA](./case-3-automacao-ia)
 - [Relatórios Inteligentes para Email Marketing](./case-4-relatorio-email)
 - [Gestão de Mídias Sociais com Segmentação](./case-5-midias-sociais)
+
+## Site
+
+Versão visual do portfólio em `index.html` (HTML, CSS e JS puros, sem build). Para publicar: Settings > Pages > Deploy from a branch > `main` / root.
+Os dados dos projetos ficam em `assets/projects.js`.
